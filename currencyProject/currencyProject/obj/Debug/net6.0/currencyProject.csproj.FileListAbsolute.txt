@@ -1,0 +1,15 @@
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\bin\Debug\net6.0\currencyProject.exe
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\bin\Debug\net6.0\currencyProject.deps.json
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\bin\Debug\net6.0\currencyProject.runtimeconfig.json
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\bin\Debug\net6.0\currencyProject.dll
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\bin\Debug\net6.0\ref\currencyProject.dll
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\bin\Debug\net6.0\currencyProject.pdb
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.csproj.AssemblyReference.cache
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.AssemblyInfoInputs.cache
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.AssemblyInfo.cs
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.csproj.CoreCompileInputs.cache
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.dll
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\obj\Debug\net6.0\ref\currencyProject.dll
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.pdb
+D:\Proqraming\c#\Projectss\Exchange-rate-management-system-in-the-terminal\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.genruntimeconfig.cache
